@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d899518.css",
+    "main.js": "/static/js/main.64067bf0.js",
+    "static/js/787.d262fffb.chunk.js": "/static/js/787.d262fffb.chunk.js",
+    "static/media/about_image.png": "/static/media/about_image.601a8880305e05ef45b1.png",
+    "static/media/demo-merch-img.png": "/static/media/demo-merch-img.9036d4c9e9300a8bdc50.png",
+    "static/media/team1.png": "/static/media/team1.3c1853606be3bf9c42b8.png",
+    "static/media/team3.png": "/static/media/team3.0f86125263c24cd4ed20.png",
+    "static/media/team2.png": "/static/media/team2.798ce448cb9dea9da4a7.png",
+    "static/media/product-banner.jpg": "/static/media/product-banner.5995e7a2f3abe9f0cd66.jpg",
+    "static/media/img3.png": "/static/media/img3.fb417669919b87717bee.png",
+    "static/media/discord2.svg": "/static/media/discord2.b99a5a32becae63bc58c8876209ca3dc.svg",
+    "static/media/img1.png": "/static/media/img1.b79e0580474b19228dbe.png",
+    "static/media/img5.png": "/static/media/img5.52f9ac3cc1036ae2fd47.png",
+    "static/media/black_hole_logo.png": "/static/media/black_hole_logo.ca19599df44c83ac2a39.png",
+    "static/media/discord.svg": "/static/media/discord.b8ca16a0e236e83f60b040825bf09e69.svg",
+    "static/media/play-icon.svg": "/static/media/play-icon.c06078ea6d9643647f8479905672d982.svg",
+    "index.html": "/index.html",
+    "static/media/right-icon.svg": "/static/media/right-icon.bf50d79f1bf2c61c22457aa524ef8949.svg",
+    "static/media/google-icon.svg": "/static/media/google-icon.15b6cb611e2ef4ea86dc62873e5c6db5.svg",
+    "static/media/plus.svg": "/static/media/plus.ac62ba472c28c1feae352446ee7e09b3.svg",
+    "static/media/minus.svg": "/static/media/minus.f76ef9e2c7f32706267b38142aa6d172.svg",
+    "main.8d899518.css.map": "/static/css/main.8d899518.css.map",
+    "main.64067bf0.js.map": "/static/js/main.64067bf0.js.map",
+    "787.d262fffb.chunk.js.map": "/static/js/787.d262fffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d899518.css",
+    "static/js/main.64067bf0.js"
+  ]
+}
